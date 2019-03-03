@@ -3,8 +3,7 @@ Glass Identification With Random Forests
 
 ### Dataset 
 
-[Glass identification dataset from UCI machine learning repository]
-(https://archive.ics.uci.edu/ml/datasets/Glass+Identification)
+[Glass identification dataset from UCI machine learning repository](https://archive.ics.uci.edu/ml/datasets/Glass+Identification)
 
 ### Objectives
 
